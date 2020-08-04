@@ -1,0 +1,12 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: flagys
+conditions:
+  - version:
+      operator: semver-gte
+      semver: 1.0.0
+    property:
+      name: prop
+      operator: is-true
+    value: true
+value: false
