@@ -6,11 +6,5 @@ availableValues:
   - '44'
   - '98'
 conditions:
-  - value:
-      - percentage: 60
-        option: '44'
-      - percentage: 40
-        option: '98'
-      - percentage: .nan
-        option: '22'
+  - value: '44'
 value: '98'
