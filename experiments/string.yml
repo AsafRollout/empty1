@@ -4,4 +4,4 @@ enabled: false
 flag: string
 availableValues:
   - '2'
-  - '3'
+  - zx
