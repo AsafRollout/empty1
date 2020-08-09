@@ -8,8 +8,8 @@ availableValues:
   - '1234'
 conditions:
   - value:
-      - percentage: 50
+      - percentage: 60
         option: '44'
-      - percentage: 50
+      - percentage: 40
         option: '98'
 value: '98'
