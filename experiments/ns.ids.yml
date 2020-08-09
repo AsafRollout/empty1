@@ -3,6 +3,9 @@ type: experiment
 enabled: false
 flag: ns.ids
 availableValues:
+  - 44
   - 98
   - 1234
+conditions:
+  - value: 44
 value: 98
