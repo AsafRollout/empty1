@@ -4,7 +4,7 @@ labels: simple
 enabled: false
 flag: UI3.Test
 availableValues:
-  - 3
+  - 2
   - 5
 conditions:
-  - value: 3
+  - value: 2
