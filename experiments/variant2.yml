@@ -1,0 +1,7 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: variant 2
+flag: variant2
+availableValues:
+  - var2
+value: []

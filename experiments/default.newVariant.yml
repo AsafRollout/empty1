@@ -1,0 +1,12 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: new variant
+flag: default.newVariant
+availableValues:
+  - 'True'
+  - 'False'
+  - 'TRUE'
+conditions:
+  - value: 'True'
+  - value: 'False'
+value: 'TRUE'
