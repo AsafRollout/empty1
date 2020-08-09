@@ -6,5 +6,9 @@ availableValues:
   - '44'
   - '98'
 conditions:
-  - value: '44'
+  - value:
+      - percentage: 20
+        option: '44'
+      - percentage: 80
+        option: '98'
 value: '98'
