@@ -4,17 +4,16 @@ name: zzzz
 enabled: false
 flag: ns.ids
 availableValues:
+  - 1234
   - 44
   - 98
-  - 22
-  - 1234
 conditions:
   - value:
       - percentage: 33
         option: 44
       - percentage: 33
         option: 98
-      - percentage: 0
+      - percentage: .nan
         option: 22
       - percentage: 34
         option: 1234
