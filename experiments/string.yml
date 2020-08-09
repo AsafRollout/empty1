@@ -5,4 +5,3 @@ flag: string
 availableValues:
   - '2'
   - as
-value: '2'
