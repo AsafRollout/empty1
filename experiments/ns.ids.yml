@@ -5,6 +5,7 @@ flag: ns.ids
 availableValues:
   - '44'
   - '98'
+  - '22'
 conditions:
   - value:
       - percentage: 60
