@@ -6,7 +6,6 @@ flag: UI3.Test
 availableValues:
   - 3
   - 5
-  - 10
 conditions:
   - value:
       - percentage: 50
