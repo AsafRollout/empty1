@@ -4,4 +4,3 @@ enabled: false
 flag: string
 availableValues:
   - '2'
-  - as
