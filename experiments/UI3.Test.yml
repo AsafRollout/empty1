@@ -4,11 +4,12 @@ labels: simple
 enabled: false
 flag: UI3.Test
 availableValues:
+  - 3
   - 5
+  - 10
 conditions:
   - value:
       - percentage: 50
         option: 3
       - percentage: 50
         option: 5
- 
