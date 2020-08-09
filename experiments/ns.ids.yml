@@ -6,6 +6,7 @@ availableValues:
   - '44'
   - '98'
   - '22'
+  - '12'
 conditions:
   - value:
       - percentage: 90
