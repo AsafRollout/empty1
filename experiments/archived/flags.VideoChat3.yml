@@ -1,0 +1,11 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+description: some description goes here
+labels:
+  - new
+  - Another
+  - simple
+  - archived
+enabled: false
+flag: flags.VideoChat3
+value: false
