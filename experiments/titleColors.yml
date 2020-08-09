@@ -1,9 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-name: title colors
-flag: titleColors
-availableValues:
-  - White
-  - Green
-  - Blue
-value: Green
