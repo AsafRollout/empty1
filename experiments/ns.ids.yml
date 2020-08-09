@@ -5,13 +5,12 @@ flag: ns.ids
 availableValues:
   - '44'
   - '98'
-  - '22'
 conditions:
   - value:
       - percentage: 60
         option: '44'
       - percentage: 40
         option: '98'
-      - percentage: 0
+      - percentage: .nan
         option: '22'
 value: '98'
