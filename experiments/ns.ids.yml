@@ -3,4 +3,6 @@ type: experiment
 enabled: false
 flag: ns.ids
 availableValues:
+  - 345
   - 1234
+value: 345
