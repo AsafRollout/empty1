@@ -15,4 +15,6 @@ conditions:
         option: '98'
       - percentage: 10
         option: '22'
+      - percentage: 0
+        option: '12'
 value: '22'
