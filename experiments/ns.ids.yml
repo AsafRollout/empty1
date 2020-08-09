@@ -9,8 +9,10 @@ availableValues:
   - '12'
 conditions:
   - value:
-      - percentage: 90
+      - percentage: 80
         option: '44'
       - percentage: 10
         option: '98'
+      - percentage: 10
+        option: '22'
 value: '22'
