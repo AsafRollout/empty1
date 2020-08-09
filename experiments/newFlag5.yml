@@ -4,4 +4,3 @@ enabled: false
 flag: newFlag5
 availableValues:
   - str1
-  - str2
