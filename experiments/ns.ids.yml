@@ -13,6 +13,6 @@ conditions:
         option: '44'
       - percentage: 20
         option: '98'
-      - percentage: 0
+      - percentage: .nan
         option: '12'
 value: '22'
